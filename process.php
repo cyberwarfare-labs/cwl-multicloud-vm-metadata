@@ -26,4 +26,4 @@ if (in_array($main_cmd, $allowed)) {
 
 // Response Output
 echo $org_output, $content;
-?
+?>
